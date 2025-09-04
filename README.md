@@ -46,7 +46,7 @@ Copy code
 
 Here is an example of the slider in action:  
 
-![Smart Image Slider Screenshot](screenshots/slider-output.png)
+![Smart Image Slider Screenshot](Screenshot1.png)
 
 *(You can replace `slider-output.png` with your actual screenshot file name.)*
 

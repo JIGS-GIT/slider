@@ -1,8 +1,8 @@
 
 let slides = [
-  { img: "image\sunset.jpg", caption: "Beautiful Sunset" },
-  { img: "image\mountain.jpg", caption: "Mountain View" },
-  { img: "image\water.jpg", caption: "City Lights" }
+  { img: "image/sunset.jpg", caption: "Beautiful Sunset" },
+  { img: "image/mountain.jpg", caption: "Mountain View" },
+  { img: "image/water.jpg", caption: "City Lights" }
 ];
 let currentIndex = 0;
 let intervalId = null;
@@ -76,3 +76,4 @@ document.getElementById("pauseBtn").addEventListener("click", pauseSlides);
 document.getElementById("addBtn").addEventListener("click", addSlide);
 
 showSlide(currentIndex);
+
